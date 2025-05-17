@@ -70,5 +70,5 @@ The primary objective of this project is to analyze Walmart’s sales data to id
 10. Which day of the week has the best average ratings per branch?
 
 
-#### All the solutions are in the pdf using MySQL.
+#### All the solutions are in the Walmart_case_study.pdf using MySQL.
 Thank you
